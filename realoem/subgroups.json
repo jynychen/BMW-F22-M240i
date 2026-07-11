@@ -1,0 +1,173 @@
+{
+ "cars": {
+  "2er_M235i": "http://bmwfans.info/parts-catalog/F22/Europe/M235i-N55/browse",
+  "1er_M135i": "http://bmwfans.info/parts-catalog/F20N/Europe/M135i-N55/browse",
+  "3er_340i": "http://bmwfans.info/parts-catalog/F30N/Europe/340i-B58/browse"
+ },
+ "groups": [
+  "front_axle",
+  "rear_axle",
+  "steering",
+  "brakes",
+  "drive_shaft"
+ ],
+ "sub": {
+  "2er_M235i": {
+   "front_axle": [
+    "frnt_axle_support_wishbone_tension_strut",
+    "front_coil_spring",
+    "front_spring_strut_carrier_wheel_bearing",
+    "guide_support_spring_pad_attaching_parts",
+    "headlight_vertical_aim_control_sensor",
+    "stabilizer_front",
+    "strut_front_vdc_mounting_parts"
+   ],
+   "rear_axle": [
+    "headlight_vertical_aim_control_sensor",
+    "output_shaft",
+    "rear_axle_carrier",
+    "rear_axle_drive",
+    "rear_axle_drive_2",
+    "rear_axle_drive_parts",
+    "rear_axle_support_wheel_suspension",
+    "rear_coil_spring",
+    "side_shaft_wheel_bearings",
+    "single_components_for_rear_spring_strut",
+    "stabilizer_rear",
+    "strut_rear_vdc_control_module"
+   ],
+   "steering": [
+    "electrical_steering",
+    "m_sports_strng_whl_airbag_multifunction",
+    "steering_column_man_adjust_mount_parts",
+    "steering_linkage_tie_rods"
+   ],
+   "brakes": [
+    "brake_master_cylinder",
+    "brake_pipe_front",
+    "brake_pipe_front_2",
+    "brake_pipe_front_3",
+    "brake_pipe_front_4",
+    "brake_pipe_rear",
+    "brake_pipe_rear_2",
+    "brake_servo_unit",
+    "front_brake_brake_disc",
+    "front_brake_pad_wear_sensor",
+    "handbrake_lever",
+    "hydro_unit_dsc_control_unit_fastening",
+    "parking_brake_brake_shoes",
+    "rear_brake_brake_pad_wear_sensor",
+    "rear_wheel_brake_brake_disc"
+   ],
+   "drive_shaft": [
+    "drive_shaft_insert_nut",
+    "hardy_coupling_center_bearing_insert_nut"
+   ]
+  },
+  "1er_M135i": {
+   "front_axle": [
+    "frnt_axle_support_wishbone_tension_strut",
+    "front_spring_strut_carrier_wheel_bearing",
+    "guide_support_spring_pad_attaching_parts",
+    "headlight_vertical_aim_control_sensor",
+    "stabilizer_front",
+    "strut_front_vdc_mounting_parts"
+   ],
+   "rear_axle": [
+    "headlight_vertical_aim_control_sensor",
+    "output_shaft",
+    "rear_axle_carrier",
+    "rear_axle_drive",
+    "rear_axle_drive_parts",
+    "rear_axle_support_wheel_suspension",
+    "side_shaft_wheel_bearings",
+    "single_components_for_rear_spring_strut",
+    "stabilizer_rear",
+    "strut_rear_vdc_control_module"
+   ],
+   "steering": [
+    "electrical_steering",
+    "leather_steering_wheel",
+    "m_sports_strng_whl_airbag_multifunction",
+    "steering_column_man_adjust_mount_parts",
+    "steering_linkage_tie_rods"
+   ],
+   "brakes": [
+    "brake_master_cylinder",
+    "brake_pipe_front",
+    "brake_pipe_front_2",
+    "brake_pipe_front_3",
+    "brake_pipe_front_4",
+    "brake_pipe_rear",
+    "brake_servo_unit",
+    "front_brake_brake_disc",
+    "front_brake_pad_wear_sensor",
+    "handbrake_lever",
+    "hydro_unit_dsc_control_unit_fastening",
+    "parking_brake_brake_shoes",
+    "rear_brake_brake_pad_wear_sensor",
+    "rear_wheel_brake_brake_disc"
+   ],
+   "drive_shaft": [
+    "drive_shaft_insert_nut",
+    "hardy_coupling_center_bearing_insert_nut"
+   ]
+  },
+  "3er_340i": {
+   "front_axle": [
+    "frnt_axle_support_wishbone_tension_strut",
+    "front_coil_spring",
+    "front_spring_strut_carrier_wheel_bearing",
+    "front_spring_strut_carrier_wheel_bearing_2",
+    "guide_support_spring_pad_attaching_parts",
+    "headlight_vertical_aim_control_sensor",
+    "stabilizer_front",
+    "strut_front_vdc_mounting_parts"
+   ],
+   "rear_axle": [
+    "headlight_vertical_aim_control_sensor",
+    "output_shaft",
+    "rear_axle_carrier",
+    "rear_axle_drive",
+    "rear_axle_drive_parts",
+    "rear_axle_support_wheel_suspension",
+    "rear_coil_spring",
+    "side_shaft_wheel_bearings",
+    "single_components_for_rear_spring_strut",
+    "stabilizer_rear",
+    "strut_rear_vdc_control_module"
+   ],
+   "steering": [
+    "airbag_sports_steering_wheel_leather",
+    "airbag_sports_steering_wheel_leather_2",
+    "electrical_steering",
+    "leather_steering_wheel",
+    "m_sports_steer_wheel_airbag_leather",
+    "sports_st_wheel_airbag_multif_paddles",
+    "sports_st_wheel_airbag_multif_paddles_2",
+    "steering_column_man_adjust_mount_parts",
+    "steering_linkage_tie_rods"
+   ],
+   "brakes": [
+    "brake_master_cylinder",
+    "brake_pipe_front",
+    "brake_pipe_front_2",
+    "brake_pipe_front_3",
+    "brake_pipe_front_4",
+    "brake_pipe_rear",
+    "brake_servo_unit",
+    "front_brake_pad_wear_sensor",
+    "front_brake_pad_wear_sensor_2",
+    "handbrake_lever",
+    "hydro_unit_dsc_control_unit_fastening",
+    "parking_brake_brake_shoes",
+    "rear_brake_brake_pad_wear_sensor",
+    "rear_brake_brake_pad_wear_sensor_2"
+   ],
+   "drive_shaft": [
+    "drive_shaft_insert_nut",
+    "hardy_coupling_center_bearing_insert_nut"
+   ]
+  }
+ }
+}

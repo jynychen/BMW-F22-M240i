@@ -1,0 +1,592 @@
+part_number,group,description,spec,M240i_F22,M140i_F20N,340i_F30N
+07 11 9 904 511,brakes,Hex bolt with washer,M6X12-U1,Y,Y,Y
+07 11 9 905 515,brakes,Hex nut,M8-8-ZNNIV SI,Y,Y,Y
+07 11 9 906 106,brakes,Screw pan,M4X8-8.8-ZNNIV,Y,Y,Y
+07 12 9 904 567,brakes,Circlip,B10-ZNS3,Y,Y,Y
+07 12 9 906 196,brakes,Self-locking hex nut,M8-8-ZNNI SI,Y,Y,Y
+07 14 6 971 298,brakes,Hex bolt with washer,M6X35 ZNS3,Y,Y,Y
+07 14 6 977 328,brakes,Spacer sleeve,ZNS3,Y,Y,Y
+07 14 6 986 935,brakes,Hex nut wiht flange,M6,Y,Y,
+11 66 7 591 538,brakes,Holder,,Y,Y,
+11 66 7 601 031,brakes,Vacuum pipe with non-return valve,R •,Y,Y,Y
+11 66 7 603 052,brakes,Vacuum pipe,,Y,Y,
+11 66 7 613 026,brakes,Vacuum pipe with non-return valve,• L,Y,Y,Y
+11 66 7 644 877,brakes,Clip,,Y,Y,Y
+11 66 8 600 882,brakes,Vacuum pipe,,,,Y
+13 31 1 714 453,brakes,Tubing support,,Y,Y,
+13 53 7 582 770,brakes,ASA-Bolt,M8X17.5-AL,Y,Y,
+16 12 7 258 742,brakes,"Wiring clip, quadruple",,Y,Y,Y
+34 10 6 772 427,brakes,Torx screw,M6X10 ZNS3,Y,Y,Y
+34 10 6 790 925,brakes,Protective plug,,,,Y
+34 10 6 790 926,brakes,Guiding bolt,,,,Y
+34 10 6 797 602,brakes,"Brake rotor, ventilated, front",340X30,Y,Y,Y
+34 10 6 797 603,brakes,"Brake rotor, ventilated, front",370X30,,,Y
+34 10 6 797 606,brakes,"Brake rotor, light blue, ventilated",370X30,,,Y
+34 10 6 859 067,brakes,"Repair kit, brake pads asbestos-free",,,,Y
+34 10 6 878 878,brakes,"Repair kit, brake pads asbestos-free",,,,Y
+34 11 6 772 117,brakes,Hex bolt,"M12X1,5X43 ZNS3",Y,Y,Y
+34 11 6 772 886,brakes,Hex bolt,M6X12-Z1-8.8 MK,Y,Y,Y
+34 11 6 780 508,brakes,Dust cap,,Y,Y,Y
+34 11 6 780 509,brakes,Ventilation valve,,Y,Y,Y
+34 11 6 792 223,brakes,"Brake rotor, light blue, ventilated",340X30,Y,Y,Y
+34 11 6 792 237,brakes,Protection plate left,,Y,Y,Y
+34 11 6 792 238,brakes,Protection plate left,,Y,Y,Y
+34 11 6 799 465,brakes,Caliper housing left,,Y,Y,
+34 11 6 799 466,brakes,Caliper housing left,,Y,Y,
+34 11 6 799 469,brakes,Caliper housing left,,,,Y
+34 11 6 799 470,brakes,Caliper housing left,,,,Y
+34 11 6 850 931,brakes,Caliper housing left,,,,Y
+34 11 6 850 932,brakes,Caliper housing left,,,,Y
+34 11 6 850 934,brakes,Guide pin,,Y,Y,Y
+34 11 6 850 935,brakes,Repair set brake caliper,,Y,Y,Y
+34 11 6 852 852,brakes,Repair kit ventilation valve,,,,Y
+34 11 6 859 066,brakes,"Repair kit, brake pads asbestos-free",,Y,Y,Y
+34 11 6 862 801,brakes,Expansion spring,,Y,Y,Y
+34 11 6 865 460,brakes,"Repair kit, brake pads asbestos-free",,,,Y
+34 11 6 865 537,brakes,Caliper housing left,,,,Y
+34 11 6 865 538,brakes,Caliper housing left,,,,Y
+34 11 6 868 785,brakes,Hex bolt,M6X12-10.9-MK-,Y,Y,Y
+34 11 6 872 081,brakes,Protection plate left,,Y,Y,Y
+34 11 6 872 082,brakes,Protection plate left,,Y,Y,Y
+34 11 6 875 649,brakes,Caliper housing left,,,,Y
+34 11 6 875 650,brakes,Caliper housing left,,,,Y
+34 11 6 876 641,brakes,"Repair kit, brake pads asbestos-free",,,,Y
+34 11 6 878 876,brakes,"Repair kit, brake pads asbestos-free",,Y,Y,Y
+34 11 6 878 882,brakes,"Repair kit, brake pads asbestos-free",,,,Y
+34 20 6 797 598,brakes,"Brake rotor, ventilated, drilled, rear",345X24,Y,Y,
+34 20 6 797 600,brakes,"Brake rotor, ventilated, drilled, rear",345X24,,,Y
+34 20 6 797 605,brakes,"Brake rotor, light blue, ventilated",345X24,Y,Y,
+34 20 6 797 607,brakes,"Brake rotor, light blue, ventilated",345X24,,,Y
+34 20 6 799 813,brakes,"Repair kit, brake pads asbestos-free",,,,Y
+34 20 6 850 536,brakes,Hex screw with collar,"M12X1,5X32 ZNS3",Y,Y,Y
+34 21 1 161 806,brakes,Inner hex bolt,M8X14,Y,Y,Y
+34 21 1 164 044,brakes,Hex bolt,M8,Y,Y,Y
+34 21 6 771 429,brakes,Supporting ring brake shoe,D=160MM,Y,Y,
+34 21 6 771 430,brakes,Supporting ring brake shoe,D=185MM,,,Y
+34 21 6 792 243,brakes,Protection plate left,,Y,Y,
+34 21 6 792 244,brakes,Protection plate left,,Y,Y,
+34 21 6 792 247,brakes,Protection plate left,,,,Y
+34 21 6 792 248,brakes,Protection plate left,,,,Y
+34 21 6 799 461,brakes,Caliper housing left,,,,Y
+34 21 6 799 462,brakes,Caliper housing left,,,,Y
+34 21 6 850 570,brakes,"Repair kit, brake pads asbestos-free",,,,Y
+34 21 6 850 859,brakes,Repair set brake caliper,,,,Y
+34 21 6 850 973,brakes,Caliper housing left,,,,Y
+34 21 6 850 974,brakes,Caliper housing left,,,,Y
+34 21 6 850 975,brakes,Clip,,,,Y
+34 21 6 855 474,brakes,"Repair kit, brake pads asbestos-free",,Y,Y,
+34 21 6 857 151,brakes,Expansion spring,,Y,Y,Y
+34 21 6 857 152,brakes,Guide pin,,Y,Y,Y
+34 21 6 857 153,brakes,Repair set brake caliper,,Y,Y,Y
+34 21 6 860 103,brakes,BMW Design retaining spring,,,,Y
+34 21 6 860 737,brakes,Caliper housing left,,Y,Y,
+34 21 6 860 738,brakes,Caliper housing left,,Y,Y,
+34 21 6 864 899,brakes,"Brake disc, ventilated",330X20,,,Y
+34 21 6 865 641,brakes,Calliper carrier,,,,Y
+34 21 6 876 422,brakes,"Repair kit, brake pads asbestos-free",,Y,Y,Y
+34 21 6 877 363,brakes,Repair set brake caliper,,Y,Y,
+34 30 6 766 380,brakes,Holder,• L,Y,Y,Y
+34 30 6 771 981,brakes,Retaining spring f brake hose,• L,Y,Y,Y
+34 30 6 784 201,brakes,"Wire clip, dual",,Y,Y,Y
+34 30 6 792 093,brakes,Grommet,• L,Y,Y,Y
+34 30 6 792 095,brakes,"Bracket, brake pipe, 3-fold",• L,Y,Y,Y
+34 30 6 792 253,brakes,Brake hose rear,,Y,Y,Y
+34 30 6 792 254,brakes,Brake hose front,• L,Y,Y,Y
+34 30 6 792 255,brakes,"Bracket for brake hose, front left",• L,Y,Y,Y
+34 30 6 792 256,brakes,"Bracket for brake hose, front left",• L,Y,Y,Y
+34 30 6 799 265,brakes,"Bracket, brake pipe, double",R •,Y,Y,Y
+34 30 6 854 015,brakes,Pipe,• L M10/M12,Y,,
+34 30 6 854 017,brakes,Pipe,• L M10/M10,Y,,
+34 30 6 858 780,brakes,Holder,• L,Y,Y,Y
+34 30 6 864 173,brakes,Pipeline with pressure hose,• L,,Y,Y
+34 30 6 864 458,brakes,Pipe,• L,Y,Y,Y
+34 32 1 107 991,brakes,Spacer holder,• L,Y,Y,Y
+34 32 6 777 692,brakes,"Spacer, 4-way",• L,Y,Y,Y
+34 32 6 792 068,brakes,Pipeline with pressure hose,• L M12/M12,Y,,
+34 32 6 792 069,brakes,Pipeline with pressure hose,• L M12/M12,Y,,
+34 32 6 792 070,brakes,Pipe,R • M12/M12,Y,,
+34 32 6 792 072,brakes,Pipe,R • M12/M12,Y,,
+34 32 6 792 082,brakes,Pipe,M10/M12,Y,,
+34 32 6 792 084,brakes,Pipe,M10/M10,Y,,
+34 32 6 799 264,brakes,"Bracket, brake pipe, 3-fold",• L,Y,Y,Y
+34 32 6 799 823,brakes,Pipeline with pressure hose,• L,Y,Y,Y
+34 32 6 850 572,brakes,"Bracket, brake pipe, double",,Y,Y,Y
+34 32 6 855 500,brakes,Brake pipe bracket,• L,Y,Y,Y
+34 32 6 855 501,brakes,"Wire clip, dual",,Y,Y,Y
+34 32 6 859 023,brakes,Pipe,R • M12/M12,Y,,
+34 32 6 859 024,brakes,Pipeline with pressure hose,• L M12/M12,Y,,
+34 32 6 864 080,brakes,Pipe — brake master cylinder-,• L,,Y,Y
+34 32 6 864 081,brakes,Pipe — brake master cylinder-,• L,,Y,Y
+34 32 6 864 082,brakes,Pipeline with pressure hose,R •,,Y,Y
+34 32 6 864 083,brakes,Pipeline with pressure hose,R •,,Y,Y
+34 32 6 864 174,brakes,Pipeline with pressure hose,• L,,Y,Y
+34 32 6 864 459,brakes,Pipe,• L,Y,Y,Y
+34 32 6 864 461,brakes,Pipeline with pressure hose,• L Delivery discontinued by the factory,Y,,
+34 32 6 864 462,brakes,Pipe — brake master cylinder-,R •,Y,Y,Y
+34 32 6 864 463,brakes,Pipe — brake master cylinder-,R •,Y,Y,Y
+34 32 6 864 464,brakes,Pipe,M10/M12 Delivery discontinued by the factory,Y,,
+34 32 6 864 467,brakes,Pipe,M10/M10 Delivery discontinued by the factory,Y,,
+34 32 6 865 577,brakes,Pipe,M10/M12,Y,Y,
+34 32 6 865 579,brakes,Pipe,M10/M10,Y,Y,
+34 32 6 865 581,brakes,Pipe — DSC — hydraulic unit-,M10/M12,,,Y
+34 32 6 865 583,brakes,Pipe — DSC — hydraulic unit-,M10/M10,,,Y
+34 32 6 871 117,brakes,"Wire clip, dual",,Y,Y,Y
+34 32 6 872 652,brakes,Pipeline with pressure hose,• L,Y,Y,Y
+34 33 6 753 646,brakes,Brake pedal pin,"D=10X29,5",Y,Y,Y
+34 33 6 796 531,brakes,Expansion tank,,Y,,
+34 33 6 796 853,brakes,Warning switch,,Y,Y,Y
+34 33 6 799 316,brakes,Plug,,Y,Y,Y
+34 33 6 799 317,brakes,Brake master cylinder o-ring,,Y,Y,Y
+34 33 6 799 318,brakes,Gasket,,Y,Y,Y
+34 33 6 851 090,brakes,Lock,,Y,Y,Y
+34 33 6 851 095,brakes,Brake master cylinder,,Y,Y,Y
+34 33 6 851 096,brakes,Brake master cylinder,,Y,Y,Y
+34 33 6 851 098,brakes,Brake servo unit,,Y,Y,Y
+34 33 6 857 618,brakes,"Seal, brake booster",,Y,Y,Y
+34 33 6 865 679,brakes,Mounting screw,,Y,Y,Y
+34 33 6 872 636,brakes,Brake servo unit,,,,Y
+34 33 7 849 876,brakes,Brake servo unit,,,,Y
+34 33 7 849 878,brakes,Brake master cylinder,,Y,,Y
+34 33 7 849 879,brakes,Brake master cylinder,,,,Y
+34 33 7 850 999,brakes,Brake servo unit,,Y,,
+34 33 7 851 569,brakes,Expansion tank,,Y,Y,Y
+34 34 1 163 565,brakes,Clip,• L,Y,Y,Y
+34 35 6 792 289,brakes,"Brake pad wear sensor, front left",,Y,Y,Y
+34 35 6 792 292,brakes,"Brake pad wear sensor, rear",,Y,Y,Y
+34 40 1 165 291,brakes,Grommet,,Y,Y,Y
+34 40 6 792 259,brakes,"Guide tube, left",• L,Y,Y,
+34 40 6 792 260,brakes,"Guide tube, left",• L,Y,Y,
+34 40 6 792 261,brakes,"Guide tube, left",R •,Y,Y,
+34 40 6 792 262,brakes,"Guide tube, left",R •,Y,Y,
+34 40 6 792 263,brakes,Hand brake bowden cable,,Y,Y,
+34 40 6 792 264,brakes,"Guide tube, left",• L,,,Y
+34 40 6 792 265,brakes,"Guide tube, left",• L,,,Y
+34 40 6 792 266,brakes,"Guide tube, left",R •,,,Y
+34 40 6 792 267,brakes,"Guide tube, left",R •,,,Y
+34 40 6 795 090,brakes,Handbrake handle,• L SCHWARZ,,,Y
+34 40 6 797 034,brakes,Hand brake bowden cable bracket,,Y,Y,Y
+34 40 6 799 101,brakes,Handbrake lever,• L,Y,Y,Y
+34 40 6 799 102,brakes,Handbrake lever,R •,Y,Y,Y
+34 40 6 851 831,brakes,Spring clip,,Y,Y,Y
+34 40 6 854 898,brakes,Clip retainer,,Y,Y,Y
+34 40 6 857 639,brakes,Hand brake bowden cable,,Y,Y,
+34 40 6 857 640,brakes,Hand brake bowden cable,,,,Y
+34 40 6 860 906,brakes,Handbrake handle,R • SCHWARZ,,,Y
+34 40 6 876 774,brakes,Handbrake lever,• L,Y,Y,Y
+34 40 6 876 775,brakes,Handbrake lever,R •,Y,Y,Y
+34 40 7 846 803,brakes,Handbrake handle,• L SCHWARZ,Y,Y,Y
+34 40 7 849 051,brakes,Handbrake handle,R • SCHWARZ,Y,Y,Y
+34 41 0 410 823,brakes,Repair kit springs,,Y,Y,
+34 41 0 410 825,brakes,Repair kit springs,,,,Y
+34 41 2 354 195,brakes,Repair kit guide bush,,,,Y
+34 41 6 761 291,brakes,Repair kit brake shoe asbestos-free,,Y,Y,
+34 41 6 761 292,brakes,Repair kit brake shoe asbestos-free,,,,Y
+34 41 6 851 437,brakes,Adjusting screw,,,,Y
+34 41 6 851 438,brakes,Adjusting screw,,Y,Y,
+34 41 6 851 439,brakes,Expanding lock,,Y,Y,Y
+34 42 7 846 804,brakes,Handbrake lever cover,R • SCHWARZ,Y,Y,
+34 42 7 846 805,brakes,Handbrake lever cover,• L SCHWARZ,Y,Y,
+34 42 7 846 806,brakes,Handbrake lever cover,R • SCHWARZ,,,Y
+34 42 7 846 807,brakes,Handbrake lever cover,• L SCHWARZ,,,Y
+34 42 9 235 425,brakes,Handbrake lever cover,• L SCHWARZ,,,Y
+34 42 9 235 426,brakes,Handbrake lever cover,• L VENETOBEIGE,,,Y
+34 42 9 235 427,brakes,Handbrake lever cover,• L OYSTER,,,Y
+34 42 9 235 428,brakes,Handbrake lever cover,R • SCHWARZ,,,Y
+34 42 9 235 429,brakes,Handbrake lever cover,R • VENETOBEIGE,,,Y
+34 42 9 235 430,brakes,Handbrake lever cover,R • OYSTER,,,Y
+34 50 6 859 776,brakes,Hex nut,M6-8-SC-ZNNIV S,,,Y
+34 51 1 162 818,brakes,Rubber Mounting,,Y,Y,Y
+34 51 6 798 904,brakes,Bracket hydro unit,,Y,Y,Y
+34 51 6 868 320,brakes,Hydro unit DSC,Delivery discontinued by the factory,Y,,
+34 51 6 868 645,brakes,Hydro unit DSC,Delivery discontinued by the factory,Y,,
+34 51 6 869 729,brakes,Hydro unit DSC,Delivery discontinued by the factory,Y,,
+34 51 6 870 919,brakes,Hydro unit DSC,Delivery discontinued by the factory,Y,,
+34 51 6 871 113,brakes,Hydro unit DSC,,Y,Y,Y
+34 51 6 871 115,brakes,Hydro unit DSC,,,Y,Y
+34 51 6 875 817,brakes,Hydro unit DSC,Delivery discontinued by the factory,Y,Y,
+34 51 6 875 819,brakes,Hydro unit DSC,Delivery discontinued by the factory,,Y,
+34 51 6 881 174,brakes,Hydro unit DSC,,Y,Y,Y
+34 51 6 881 178,brakes,Hydro unit DSC,,,Y,Y
+34 52 6 863 385,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 863 387,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 863 389,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 863 391,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 864 204,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 864 206,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 864 208,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 864 209,brakes,ICM control unit,,,Y,
+34 52 6 864 210,brakes,ICM control unit,,Y,Y,
+34 52 6 864 211,brakes,ICM control unit,,,Y,
+34 52 6 867 168,brakes,ICM control unit,,Y,,Y
+34 52 6 867 169,brakes,ICM control unit,,,Y,
+34 52 6 867 170,brakes,ICM control unit,,Y,Y,Y
+34 52 6 867 171,brakes,ICM control unit,,,Y,Y
+34 52 6 868 253,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 868 255,brakes,ICM control unit,Delivery discontinued by the factory,Y,,
+34 52 6 868 321,brakes,"Repair kit, control unit DSC",Delivery discontinued by the factory,Y,,
+34 52 6 868 598,brakes,ICM control unit,,Y,,Y
+34 52 6 868 599,brakes,ICM control unit,,,Y,
+34 52 6 868 600,brakes,ICM control unit,,Y,Y,Y
+34 52 6 868 601,brakes,ICM control unit,,,Y,Y
+34 52 6 868 646,brakes,"Repair kit, control unit DSC",Delivery discontinued by the factory,Y,,
+34 52 6 869 730,brakes,"Repair kit, control unit DSC",Delivery discontinued by the factory,Y,,
+34 52 6 870 920,brakes,"Repair kit, control unit DSC",Delivery discontinued by the factory,Y,,
+34 52 6 871 114,brakes,"Repair kit, control unit DSC",,Y,Y,Y
+34 52 6 871 116,brakes,"Repair kit, control unit DSC",,,Y,Y
+34 52 6 875 818,brakes,"Repair kit, control unit DSC",,Y,Y,
+34 52 6 875 820,brakes,"Repair kit, control unit DSC",Delivery discontinued by the factory,,Y,
+34 52 6 879 833,brakes,ICM control unit,,Y,,Y
+34 52 6 879 834,brakes,ICM control unit,,,Y,
+34 52 6 879 835,brakes,ICM control unit,,Y,Y,Y
+34 52 6 879 836,brakes,ICM control unit,,,Y,Y
+34 52 6 881 175,brakes,"Repair kit, control unit DSC",,Y,Y,Y
+34 52 6 881 179,brakes,"Repair kit, control unit DSC",,,Y,Y
+61 13 1 379 882,brakes,Spacer,R •,Y,Y,Y
+61 31 6 928 205,brakes,Switch hand brake control,,Y,Y,Y
+83 19 2 158 851,brakes,Brake pad paste,3G,Y,Y,Y
+22 32 6 760 945,drive_shaft,Hex bolt with washer,M8X22-8.8-ZNS3,Y,Y,Y
+26 10 7 598 387,drive_shaft,Manual drive shaft transmission,,Y,Y,
+26 10 7 638 488,drive_shaft,Manual drive shaft transmission,,Y,Y,
+26 10 8 654 491,drive_shaft,Drive Shaft,L=1551MM,,,Y
+26 10 8 654 493,drive_shaft,Drive Shaft,,,,Y
+26 11 7 526 611,drive_shaft,Centering sleeve,,Y,Y,Y
+26 11 7 526 628,drive_shaft,"Rubber boot, center bearing",,Y,Y,Y
+26 11 7 527 475,drive_shaft,Hex bolt,"M12X1,5X71-ZNS3",Y,Y,Y
+26 11 7 581 110,drive_shaft,Damper ring,D=38/D=33,Y,Y,Y
+26 11 7 605 629,drive_shaft,Universal joint,LK=105MM/12,Y,Y,Y
+26 11 7 610 061,drive_shaft,Universal joint,LK=105MM/12,Y,Y,Y
+26 12 1 225 002,drive_shaft,Grooved ball bearing,D=55/D=35,Y,,Y
+26 12 1 225 071,drive_shaft,Grooved ball bearing,D=55/D=30,,Y,
+26 12 7 536 563,drive_shaft,Self-locking hex nut,"M12X1,5-10-ZNS3",Y,Y,Y
+26 12 7 597 884,drive_shaft,"Center Mount, aluminium",,Y,Y,
+26 12 8 615 622,drive_shaft,"Center Mount, aluminium",,,,Y
+83 19 0 447 919,drive_shaft,Lubricant Olistamoly 2 LN 584 LO,100G,Y,Y,Y
+07 11 9 904 371,front_axle,Hex bolt,M6X16-8.8-ZNS3,Y,Y,Y
+07 11 9 905 032,front_axle,Hex nut,M10-10-ZNS3,Y,Y,Y
+07 11 9 906 392,front_axle,Fillister-head screw,M6X16-8.8-ZNS3,Y,Y,Y
+07 11 9 907 452,front_axle,Hexagon screw with flange,"M14X1,5X60-10.9",Y,Y,Y
+07 11 9 908 512,front_axle,Torx-bolt with washer,R • M8X50-U2-10.9,Y,Y,Y
+07 12 9 904 491,front_axle,ISA screw,M5X10,Y,Y,Y
+07 12 9 904 588,front_axle,ISA screw,M6X16-8.8-ZNS3,Y,Y,Y
+07 12 9 905 817,front_axle,Hex nut,M6-8-ZNNIV SI,Y,Y,Y
+07 14 7 127 539,front_axle,Blind plug,D=12MM,Y,Y,Y
+07 14 7 306 224,front_axle,Expanding nut,L= 19.9MM,Y,Y,Y
+07 14 9 126 886,front_axle,Hex bolt,TS5X17 SW8 D=22,Y,Y,Y
+31 10 6 793 893,front_axle,Torx screw,M12X165-10.9,Y,Y,Y
+31 10 6 793 894,front_axle,Torx screw,"M12X1,5X45-10.9",Y,Y,Y
+31 10 6 795 930,front_axle,Hexagon screw with flange,M12X121-10.9,Y,Y,Y
+31 10 6 797 237,front_axle,Hex screw with collar,"M12X1,5X85-10.9",Y,Y,Y
+31 10 6 856 004,front_axle,Foam seal,,Y,Y,Y
+31 10 6 857 329,front_axle,"Wishbone, left",,Y,Y,
+31 10 6 857 330,front_axle,"Wishbone, left",,Y,Y,
+31 10 6 861 027,front_axle,Vibration absorber,R •,Y,Y,Y
+31 10 6 866 983,front_axle,Front axle support,Delivery discontinued by the factory,Y,,
+31 10 6 869 534,front_axle,Heat Protection Plate Right,,,,Y
+31 10 6 872 118,front_axle,Front axle support,,Y,Y,Y
+31 12 6 852 991,front_axle,"Wishbone, left",,,Y,Y
+31 12 6 852 992,front_axle,"Wishbone, left",,,Y,Y
+31 12 6 855 741,front_axle,"Tension strut with hydraulic mount, left",,Y,Y,Y
+31 12 6 855 742,front_axle,"Tension strut with hydraulic mount, left",,Y,Y,Y
+31 12 6 855 743,front_axle,Hydrobearing,,Y,Y,Y
+31 14 6 850 067,front_axle,Underride protection,,Y,Y,Y
+31 20 6 783 065,front_axle,Collar screw,"M12X1,5X45-10.9",Y,Y,Y
+31 20 6 867 256,front_axle,"Wheel hub with bearing, front",,Y,Y,Y
+31 21 6 792 285,front_axle,"Carrier, left",,Y,Y,
+31 21 6 792 286,front_axle,"Carrier, left",,Y,Y,
+31 21 6 792 287,front_axle,"Carrier, left",,,,Y
+31 21 6 792 288,front_axle,"Carrier, left",,,,Y
+31 21 6 853 649,front_axle,"Carrier, left",+30MIN,Y,,
+31 21 6 853 650,front_axle,"Carrier, left",+30MIN,Y,,
+31 21 6 853 651,front_axle,"Carrier, left",-30MIN,Y,Y,
+31 21 6 853 652,front_axle,"Carrier, left",-30MIN,Y,Y,
+31 21 6 854 197,front_axle,"Carrier, left",+30MIN,,,Y
+31 21 6 854 198,front_axle,"Carrier, left",+30MIN,,,Y
+31 21 6 854 199,front_axle,"Carrier, left",-30MIN,,,Y
+31 21 6 854 200,front_axle,"Carrier, left",-30MIN,,,Y
+31 30 6 791 712,front_axle,"Spring pad with guard tube, top",,Y,Y,Y
+31 30 6 792 207,front_axle,Stabilizer support,,Y,Y,Y
+31 30 6 792 211,front_axle,Front swing support,,Y,Y,Y
+31 30 6 792 212,front_axle,Front swing support,,Y,Y,Y
+31 30 6 798 530,front_axle,Hexagon screw with flange,M10X85 8.8 ZNS3,Y,Y,Y
+31 30 6 798 572,front_axle,Hexagon nut with collar,M8-10 ZNS3,Y,Y,Y
+31 30 6 863 134,front_axle,Hex bolt with washer,M10X30-10.9,Y,,
+31 30 6 863 136,front_axle,Guide support,,Y,,
+31 30 6 868 240,front_axle,Washer-gasket,,Y,Y,
+31 30 6 869 888,front_axle,Guide support,,,,Y
+31 30 6 869 889,front_axle,Guide support,,Y,Y,Y
+31 30 6 869 890,front_axle,Washer-gasket,,Y,,Y
+31 30 6 869 931,front_axle,Hex bolt with washer,M8X30-10.9,Y,Y,Y
+31 31 6 856 714,front_axle,"Spring strut, front",,,Y,
+31 31 6 865 648,front_axle,"Spring strut, front",Delivery discontinued by the factory,Y,,
+31 31 6 873 728,front_axle,"Spring strut, front",,,Y,
+31 31 6 873 733,front_axle,"Spring strut, front",,Y,,
+31 31 6 873 738,front_axle,"Spring strut, front",,,Y,
+31 31 6 874 368,front_axle,"Spring strut, front",,,,Y
+31 31 6 874 371,front_axle,"Spring strut, front",,,,Y
+31 33 6 787 114,front_axle,Spring pad lower,,Y,Y,Y
+31 33 6 791 491,front_axle,"Additional shock absorber, front",,,Y,
+31 33 6 791 507,front_axle,"Additional shock absorber, front",,,,Y
+31 33 6 854 700,front_axle,"Additional shock absorber, front",,,Y,
+31 33 6 855 440,front_axle,"Additional shock absorber, front",,,,Y
+31 33 6 857 729,front_axle,"Additional shock absorber, front",,Y,,Y
+31 33 6 858 241,front_axle,"Additional shock absorber, front",,Y,,
+31 35 6 792 118,front_axle,Stabilizer front with rubber mounting,"25MM/21,2MM",,,Y
+31 35 6 792 119,front_axle,Stabilizer front with rubber mounting,"25MM/22,2MM",,,Y
+31 35 6 792 120,front_axle,Stabilizer front with rubber mounting,"25,2MM/22,2MM",Y,Y,
+33 30 6 787 062,front_axle,Combination nut,"M14X1,5-10ZNNIV",Y,Y,Y
+33 32 6 760 668,front_axle,Self-locking collar nut,"M12X1,5-10 ZNS3",Y,Y,Y
+33 32 6 768 884,front_axle,Hexagon nut with collar,M10-10 ZNS3,Y,Y,Y
+33 40 6 864 028,front_axle,Cap,,Y,Y,Y
+34 52 1 164 653,front_axle,Cable clip,,Y,Y,Y
+34 52 6 791 223,front_axle,"DSC pulse generator, front",,Y,Y,Y
+34 52 6 791 224,front_axle,"DSC pulse generator, front",Delivery discontinued by the factory,Y,,
+34 52 6 869 320,front_axle,"DSC pulse generator, front",,Y,Y,Y
+37 11 6 797 899,front_axle,Left front spring strut,,,Y,
+37 11 6 797 900,front_axle,Left front spring strut,,,Y,
+37 11 6 865 539,front_axle,Left front spring strut,,Y,,
+37 11 6 865 540,front_axle,Left front spring strut,,Y,,
+37 11 6 874 517,front_axle,Left front spring strut,,,,Y
+37 11 6 874 518,front_axle,Left front spring strut,,,,Y
+37 14 6 783 044,front_axle,Left ride height sensor bracket,,Y,Y,Y
+37 14 6 783 046,front_axle,Left ride height sensor bracket,,Y,Y,Y
+37 14 6 793 848,front_axle,Adapter wire for sensor,,Y,Y,Y
+37 14 6 793 850,front_axle,Adapter lead for VDC,,Y,Y,Y
+37 14 6 850 307,front_axle,Prestol-cage,M6 ZNS3,Y,Y,Y
+37 14 6 852 254,front_axle,Regulating rod,,Y,Y,Y
+37 14 6 860 843,front_axle,Level sensor,,Y,Y,Y
+37 14 6 867 535,front_axle,"Control rod, left",,Y,Y,Y
+37 15 6 797 033,front_axle,Accelerating sensor,,Y,,
+37 15 6 871 465,front_axle,Accelerating sensor,,Y,Y,Y
+51 71 7 065 773,front_axle,C-clip nut,,Y,Y,Y
+01 39 9 791 197,rear_axle,Stick-on label,"DE, EN",Y,Y,Y
+07 11 9 905 949,rear_axle,Self-locking hex nut,M6-8-ZNNIV SI,Y,Y,Y
+07 11 9 906 489,rear_axle,Hexagon screw with flange,"M12X1,5X67-10.9",Y,Y,Y
+07 11 9 907 125,rear_axle,Torx screw,M8X20-10.9-ZNS3,Y,Y,Y
+07 11 9 907 135,rear_axle,Hex nut wiht flange,M10X1-8-ZNS3,Y,Y,Y
+07 11 9 907 137,rear_axle,Torx screw with collar,M8X25-PC-10.9,Y,Y,Y
+07 11 9 907 372,rear_axle,Torx screw with collar,"M12X1,5X90-10.9",Y,Y,Y
+07 11 9 908 584,rear_axle,Star-socket screw,BM8X30-U1-10.9-,Y,,Y
+07 11 9 934 755,rear_axle,Lock Ring,85X3,,,Y
+07 12 9 903 657,rear_axle,Star-socket screw,M8X30-U1-10.9 Delivery discontinued by the factory,Y,,
+16 13 1 176 747,rear_axle,Plastic nut,M6,Y,,
+33 10 7 568 368,rear_axle,Gasket set differential,,Y,Y,Y
+33 10 7 599 411,rear_axle,Rmfd final drive,,Y,Y,
+33 10 7 599 412,rear_axle,Rmfd final drive,,Y,,
+33 10 7 603 757,rear_axle,Rear-axle-drive,,,,Y
+33 10 7 603 759,rear_axle,Rear-axle-drive,,,,Y
+33 10 7 609 536,rear_axle,Shaft seal,50X78X10/15,Y,Y,Y
+33 10 8 656 341,rear_axle,Rear-axle-drive,,,,Y
+33 11 7 525 064,rear_axle,Screw plug with O-ring,"M22X1,5-ZNS3",Y,Y,Y
+33 11 7 589 964,rear_axle,Transmission cover,,Y,Y,Y
+33 11 7 596 914,rear_axle,Flanged cap screw,"M10X1,5X25-10.9",Y,Y,
+33 11 7 695 240,rear_axle,Final-drive gear oil SAF-XO,"OSP, 1000ML Delivery discontinued by the factory",Y,Y,
+33 11 8 650 753,rear_axle,Flanged cap screw,M10X25-10.9ZNNI,,,Y
+33 12 1 213 903,rear_axle,Dustcover plate,,,,Y
+33 12 1 214 064,rear_axle,"Dustcover plate, small",,Y,Y,Y
+33 12 7 518 511,rear_axle,"Dustcover plate, large",,Y,Y,Y
+33 12 7 607 158,rear_axle,Repair kit insert nut,"M39X1,5X20",Y,Y,Y
+33 13 1 214 961,rear_axle,Lock Ring,"D=22,4",Y,Y,Y
+33 17 6 760 342,rear_axle,Nut,M14X110-10.9,Y,Y,
+33 17 6 760 343,rear_axle,Hex bolt with washer,M12X100-10.9,Y,Y,Y
+33 17 6 799 183,rear_axle,Nut,"M14X1,5X110",Y,,Y
+33 17 6 856 504,rear_axle,Vibration absorber,80HZ,Y,,Y
+33 17 6 860 443,rear_axle,"Screw, outside Torx with washer",M12XM8X85-8.8,,,Y
+33 17 6 865 490,rear_axle,"Bracket, vibration absorber",,,,Y
+33 17 6 874 887,rear_axle,Vibration absorber,38HZ,,,Y
+33 17 6 875 625,rear_axle,Vibration absorber,165HZ,,,Y
+33 20 7 597 685,rear_axle,Output shaft left,D=35MM,Y,Y,Y
+33 20 7 597 686,rear_axle,Output shaft left,D=35MM,Y,Y,Y
+33 21 7 616 459,rear_axle,"Dust guard ring, plastic","D=78,1",Y,Y,Y
+33 30 6 760 349,rear_axle,Self-locking collar nut,"M14X1,5-10 ZNS3",Y,Y,Y
+33 30 6 784 983,rear_axle,Eccentric bolt,"M14X1,5X95-10.9",Y,Y,Y
+33 30 6 786 186,rear_axle,Eccentric flat washer,,Y,Y,Y
+33 30 6 786 187,rear_axle,Eccentric flat washer,,Y,Y,Y
+33 30 6 793 891,rear_axle,Securing bolt,"M12X1,5X74-10.9",Y,Y,Y
+33 30 6 793 892,rear_axle,Torx screw with collar,M12X110-10.9,Y,Y,Y
+33 30 6 861 221,rear_axle,Torx bolt,ISA M12X35-10.9,Y,,
+33 30 6 862 878,rear_axle,Vibration absorber,48HZ,,,Y
+33 31 6 792 505,rear_axle,Rear axle carrier,,Y,Y,Y
+33 31 6 792 506,rear_axle,Rear axle carrier,,,,Y
+33 31 6 792 509,rear_axle,RUBBER MOUNTING front,,Y,Y,Y
+33 31 6 792 510,rear_axle,RUBBER MOUNTING rear,,Y,Y,Y
+33 31 6 792 511,rear_axle,RUBBER MOUNTING rear,,,,Y
+33 31 6 792 513,rear_axle,RUBBER MOUNTING front,,Y,Y,Y
+33 31 6 792 514,rear_axle,RUBBER MOUNTING rear,,Y,Y,Y
+33 31 6 794 866,rear_axle,"Stopper, rear",,Y,Y,Y
+33 32 6 762 875,rear_axle,Hex screw with collar,"M14X1,5X82-10.9",Y,Y,Y
+33 32 6 764 505,rear_axle,Torx screw,M8X18-10.9 ZNS3,Y,,
+33 32 6 792 515,rear_axle,"Wheel carrier, rear left",,Y,Y,
+33 32 6 792 516,rear_axle,"Wheel carrier, rear left",,Y,Y,
+33 32 6 792 523,rear_axle,"Wheel carrier, rear left",,,,Y
+33 32 6 792 524,rear_axle,"Wheel carrier, rear left",,,,Y
+33 32 6 792 525,rear_axle,Trailing arm with rubber bushing,,Y,Y,Y
+33 32 6 792 533,rear_axle,Track strut with rubber mount,,Y,Y,Y
+33 32 6 792 539,rear_axle,Guiding suspens. link w rubber mount lft,,Y,Y,Y
+33 32 6 792 540,rear_axle,Guiding suspens. link w rubber mount lft,,Y,Y,Y
+33 32 6 792 543,rear_axle,"Control arm with rubber bushing, left",,Y,Y,Y
+33 32 6 792 544,rear_axle,"Control arm with rubber bushing, left",,Y,Y,Y
+33 32 6 792 551,rear_axle,Rubber Mounting,,Y,Y,Y
+33 32 6 792 553,rear_axle,Ball joint,,Y,Y,Y
+33 32 6 792 554,rear_axle,Push rod,,,Y,Y
+33 32 6 793 651,rear_axle,Push rod left,,Y,,
+33 32 6 793 652,rear_axle,Push rod left,,Y,,
+33 32 6 796 137,rear_axle,Covering left,,Y,Y,Y
+33 32 6 796 138,rear_axle,Covering left,,Y,Y,Y
+33 32 6 796 196,rear_axle,Eccentric bolt,"M12X1,5X76-10.9",Y,Y,Y
+33 32 6 796 225,rear_axle,Torx screw with collar,M10X30-PC-10.9,Y,Y,Y
+33 32 6 797 099,rear_axle,Tension strut,,Y,,
+33 32 6 867 540,rear_axle,Roll-over strut with rubber mount,,Y,Y,Y
+33 35 6 792 196,rear_axle,Stabilizer rubber mounting,D=12MM,,,Y
+33 35 6 792 197,rear_axle,Stabilizer rubber mounting,D=13MM,,,Y
+33 35 6 792 208,rear_axle,Stabilizer support,,Y,Y,Y
+33 40 6 799 223,rear_axle,Collar nut,"M24X1,5 ZNS3",Y,Y,Y
+33 41 1 132 565,rear_axle,Collar nut,"M24X1,5",Y,Y,Y
+33 41 1 138 648,rear_axle,Lock Ring,"79X2,5",Y,Y,
+33 41 6 792 356,rear_axle,Angular ball bearing,42X75X37,Y,Y,
+33 41 6 792 361,rear_axle,Angular ball bearing,45X84X41,,,Y
+33 41 6 867 261,rear_axle,Drive flange hub,,Y,Y,
+33 41 6 867 262,rear_axle,Drive flange hub,,,,Y
+33 50 6 785 607,rear_axle,Left swing support,,Y,Y,Y
+33 50 6 785 608,rear_axle,Left swing support,,Y,Y,Y
+33 50 6 791 708,rear_axle,Covering cap,,Y,Y,Y
+33 50 6 792 199,rear_axle,Stabilizer rubber mounting,D=15MM,Y,Y,
+33 50 6 851 137,rear_axle,Washer-gasket,Delivery discontinued by the factory,Y,,
+33 50 6 862 725,rear_axle,Guide support,,Y,Y,Y
+33 50 6 865 257,rear_axle,Guide support,,Y,,
+33 50 6 866 038,rear_axle,Washer-gasket,,Y,Y,Y
+33 52 6 856 700,rear_axle,"Shock absorber, rear",,,Y,
+33 52 6 865 649,rear_axle,"Shock absorber, rear",Delivery discontinued by the factory,Y,,
+33 52 6 868 652,rear_axle,"Shock absorber, rear",Delivery discontinued by the factory,,,Y
+33 52 6 868 653,rear_axle,"Shock absorber, rear",Delivery discontinued by the factory,,,Y
+33 52 6 873 729,rear_axle,"Shock absorber, rear",,,Y,
+33 52 6 873 734,rear_axle,"Shock absorber, rear",,Y,,
+33 52 6 873 802,rear_axle,"Shock absorber, rear",,,,Y
+33 52 6 874 369,rear_axle,"Shock absorber, rear",,,,Y
+33 52 6 874 372,rear_axle,"Shock absorber, rear",,,,Y
+33 53 6 764 419,rear_axle,Spring pad upper,,Y,Y,Y
+33 53 6 791 515,rear_axle,"Additional shock absorber, rear",,,,Y
+33 53 6 791 709,rear_axle,Spring pad lower,,Y,Y,Y
+33 53 6 854 701,rear_axle,"Additional shock absorber, rear",,,Y,Y
+33 53 6 855 439,rear_axle,"Additional shock absorber, rear",,,Y,Y
+33 53 6 857 730,rear_axle,"Additional shock absorber, rear",,Y,,Y
+33 53 6 860 161,rear_axle,"Additional shock absorber, rear",,Y,,
+33 55 6 853 473,rear_axle,"Stabilizer, rear",D=12MM,,,Y
+33 55 6 853 474,rear_axle,"Stabilizer, rear",D=13MM,,,Y
+33 55 6 853 476,rear_axle,"Stabilizer, rear",D=15MM,Y,Y,
+34 52 6 791 225,rear_axle,"Pulse generator, DSC rear",,Y,Y,Y
+34 52 6 791 926,rear_axle,"Wire clip, 3-way",,Y,Y,Y
+34 52 6 791 949,rear_axle,Rear ABS/BVA tube bracket,,Y,Y,Y
+34 52 6 869 322,rear_axle,"Pulse generator, DSC rear",,,,Y
+37 12 6 857 963,rear_axle,"Shock absorber, rear",,,Y,
+37 12 6 865 541,rear_axle,"Shock absorber, rear",,Y,,
+37 12 6 874 513,rear_axle,"Shock absorber, rear",,,,Y
+37 14 6 852 924,rear_axle,Adapter wire for EDC,,Y,Y,Y
+37 14 6 866 330,rear_axle,Control unit for VDC,Delivery discontinued by the factory,Y,,
+37 14 6 866 397,rear_axle,Control unit for VDC,Delivery discontinued by the factory,Y,,
+37 14 6 868 873,rear_axle,Control unit for VDC,Delivery discontinued by the factory,Y,,
+37 14 6 870 360,rear_axle,Control unit for VDC,Delivery discontinued by the factory,Y,,
+37 14 6 872 837,rear_axle,Control unit for VDC,Delivery discontinued by the factory,Y,Y,
+37 14 6 874 337,rear_axle,Control unit for VDC,,Y,Y,Y
+37 14 6 875 827,rear_axle,Control unit for VDC,,Y,Y,Y
+37 14 6 878 200,rear_axle,Control unit for VDC,,Y,Y,Y
+37 14 6 881 597,rear_axle,Control unit for VDC,,Y,Y,Y
+41 13 2 291 403,rear_axle,"Blind rivet nut, flat headed",M8,Y,Y,Y
+41 14 7 057 297,rear_axle,Spring pocket,,Y,Y,Y
+51 71 1 934 930,rear_axle,Cap nut,M5,,,Y
+83 19 0 404 517,rear_axle,Loctite 5970 liquid sealant,50ML,Y,Y,Y
+83 22 2 295 532,rear_axle,Final-drive gear oil SAF-XO,"3 X 0,5L",Y,Y,Y
+83 22 2 365 987,rear_axle,Final-drive gear oil SAF-XO,1L,Y,Y,
+07 11 9 904 024,steering,Hex nut,M8-ZNS3,Y,Y,Y
+07 11 9 904 128,steering,Hexagon screw with flange,R • M6X10-8.8-ZNS3,Y,Y,Y
+32 10 6 765 080,steering,Clamping bolt,M10X1X22-10.9,Y,Y,Y
+32 10 6 765 232,steering,Pipe clamp,,Y,Y,Y
+32 10 6 792 750,steering,Steering box heat resistant plate,R •,Y,,Y
+32 10 6 795 845,steering,Repair kit bellows,,Y,Y,
+32 10 6 796 233,steering,Pipe clamp,,,,Y
+32 10 6 797 242,steering,ASA-Bolt,M10X55-10.9,Y,Y,Y
+32 10 6 799 960,steering,Left tie rod,,Y,Y,Y
+32 10 6 799 965,steering,Left tie rod,,Y,Y,Y
+32 10 6 799 966,steering,"Ball joint, left",,Y,Y,Y
+32 10 6 799 967,steering,"Ball joint, left",,Y,Y,Y
+32 10 6 854 893,steering,Repair kit bellows,,,,Y
+32 10 6 863 714,steering,"AT-steering box, electr.",• L SPORT/TKP Delivery discontinued by the factory,Y,,
+32 10 6 868 878,steering,"Steering gear, electric",• L SPORT/TKP Delivery discontinued by the factory,Y,,
+32 10 6 868 880,steering,"AT-steering box, electr.",• L SPORT/TKP Delivery discontinued by the factory,Y,,
+32 10 6 870 455,steering,"AT-steering box, electr.",• L SPORT/TKP Delivery discontinued by the factory,Y,,
+32 10 6 870 519,steering,Repair kit bellows,,Y,Y,Y
+32 10 6 871 127,steering,"Steering gear, electric",• L SPORT/TKP,Y,,Y
+32 10 6 872 372,steering,"AT-steering box, electr.",• L SPORT/TKP Delivery discontinued by the factory,Y,Y,
+32 10 6 872 403,steering,"AT-steering box, electr.",R • SPORT/TKP Delivery discontinued by the factory,Y,,
+32 10 6 874 674,steering,"Steering gear, electric",• L SPORT/TKP Delivery discontinued by the factory,Y,,
+32 10 6 874 676,steering,"AT-steering box, electr.",• L SPORT/TKP Delivery discontinued by the factory,Y,Y,
+32 10 6 874 682,steering,"AT-steering box, electr.",R • SPORT/TKP Delivery discontinued by the factory,Y,Y,
+32 10 6 874 850,steering,"Steering gear, electric",• L,,,Y
+32 10 6 874 852,steering,"AT-steering box, electr.",• L ZF,,,Y
+32 10 6 874 856,steering,"AT-steering box, electr.",R • ZF,,,Y
+32 10 6 875 231,steering,"AT-steering box, electr.",• L SPORT/TKP,Y,Y,Y
+32 10 6 875 233,steering,"AT-steering box, electr.",R • SPORT/TKP,Y,Y,Y
+32 10 6 877 774,steering,"AT-steering box, electr.",• L SPORT/TKP,Y,Y,Y
+32 10 6 877 776,steering,"AT-steering box, electr.",R • SPORT/TKP,Y,Y,Y
+32 10 6 881 264,steering,"Steering gear, electric",• L SPORT/TKP,Y,,Y
+32 13 6 756 011,steering,Hose clamp,"D= 19,4 - 22,5",Y,Y,Y
+32 30 6 769 431,steering,Saucer-head screw,4X14MM,,Y,Y
+32 30 6 778 609,steering,Torx bolt,M8X33,Y,Y,Y
+32 30 6 791 292,steering,Steering shaft sleeve,• L,,Y,
+32 30 6 791 293,steering,Steering shaft sleeve,R •,,Y,
+32 30 6 791 295,steering,Lower joint assy,• L,Y,Y,Y
+32 30 6 791 297,steering,Lower joint assy,R •,Y,Y,Y
+32 30 6 791 330,steering,"Airbag module, driver's side",,,,Y
+32 30 6 791 332,steering,"Airbag module, driver's side",,,,Y
+32 30 6 795 924,steering,Hex bolt,"M14X1,5",Y,Y,Y
+32 30 6 852 325,steering,Manually adjust. steering column,R •,,Y,
+32 30 6 854 045,steering,Manually adjust. steering column,,,Y,
+32 30 6 854 047,steering,Manually adjust. steering column,Delivery discontinued by the factory,,Y,
+32 30 6 854 282,steering,Adjust-lever,,Y,Y,Y
+32 30 6 854 753,steering,Leather steering wheel,,,Y,Y
+32 30 6 854 755,steering,"Sport steering wheel, leather",SCHWARZ Delivery discontinued by the factory,,,Y
+32 30 6 854 757,steering,"Sport steering wheel, leather",SCHWARZ Delivery discontinued by the factory,,,Y
+32 30 6 854 768,steering,"Connecting line, steering wheel",,,Y,Y
+32 30 6 854 769,steering,"Connecting line, steering wheel",,,,Y
+32 30 6 854 770,steering,"Connecting line, steering wheel",,,Y,Y
+32 30 6 854 771,steering,"Connecting line, steering wheel",,,,Y
+32 30 6 854 772,steering,"Cover, steering wheel black",,,Y,Y
+32 30 6 854 775,steering,Set of decor finishers,BASIS,,Y,Y
+32 30 6 854 776,steering,"Cover, steer.wheel black/chrome pearlglos",,,,Y
+32 30 6 854 777,steering,Set of decor finishers,SPORT,,,Y
+32 30 6 854 964,steering,Manually adjust. steering column,• L,Y,Y,Y
+32 30 6 854 965,steering,Manually adjust. steering column,R •,Y,Y,Y
+32 30 6 856 230,steering,Mounting parts set,MFL,,Y,Y
+32 30 6 857 306,steering,"Airbag module, driver's side",,,,Y
+32 30 6 857 858,steering,Lower joint assy,• L Delivery discontinued by the factory,,Y,
+32 30 6 858 470,steering,Steering shaft sleeve,• L,Y,Y,Y
+32 30 6 858 471,steering,Steering shaft sleeve,R •,Y,Y,Y
+32 30 6 858 559,steering,Manually adjust. steering column,,Y,Y,Y
+32 30 6 858 560,steering,Manually adjust. steering column,Delivery discontinued by the factory,,Y,
+32 30 6 858 561,steering,Manually adjust. steering column,R • Delivery discontinued by the factory,,Y,
+32 30 6 861 999,steering,Hex bolt,M12,,,Y
+32 30 6 863 342,steering,"Sport steering wheel, leather",SCHWARZ,,,Y
+32 30 6 863 343,steering,"Sprt st. wheel, leather, shift paddles",SCHWARZ,,,Y
+32 30 6 863 344,steering,"Sport steering wheel, leather",SCHWARZ,,,Y
+32 30 6 863 345,steering,"Sprt st. wheel, leather, shift paddles",SCHWARZ,,,Y
+32 30 6 863 346,steering,"Sport steering wheel, leather",SPORT LINE,,,Y
+32 30 6 863 347,steering,"Sprt st. wheel, leather, shift paddles",SPORT LINE,,,Y
+32 30 6 863 348,steering,"Sport steering wheel, leather",SPORT LINE,,,Y
+32 30 6 863 349,steering,"Sprt st. wheel, leather, shift paddles",SPORT LINE,,,Y
+32 30 6 878 249,steering,Leather steering wheel,,,Y,Y
+32 30 6 878 250,steering,"Sport steering wheel, leather",SCHWARZ,,,Y
+32 30 6 878 251,steering,"Sprt st. wheel, leather, shift paddles",SCHWARZ,,,Y
+32 30 6 878 252,steering,"Sport steering wheel, leather",SPORT LINE,,,Y
+32 30 6 878 253,steering,"Sprt st. wheel, leather, shift paddles",SPORT LINE,,,Y
+32 30 7 845 797,steering,"Airbag module, driver's side",,Y,Y,Y
+32 30 7 846 032,steering,"Decor trim cover, steering wheel",M SPORTLENKRAD,Y,Y,Y
+32 30 7 848 267,steering,"Cover for steering wheel, rear",,Y,Y,Y
+32 30 7 848 268,steering,"Cover for steering wheel, rear",PADDLES,Y,Y,Y
+32 30 7 848 329,steering,"Connecting line, steering wheel",,Y,Y,Y
+32 30 7 848 331,steering,"Connecting line, steering wheel",,Y,Y,Y
+32 30 7 848 333,steering,Set of screws,,Y,Y,Y
+32 30 7 848 335,steering,"Connecting line, steering wheel",,Y,Y,Y
+32 30 7 848 337,steering,"Connecting line, steering wheel",,Y,Y,Y
+32 30 7 848 338,steering,M sports steering wheel leather,,Y,Y,Y
+32 30 7 848 339,steering,M sports steering wheel leather,,Y,Y,Y
+32 33 6 787 451,steering,Vibration generator,ASE,,Y,Y
+32 33 7 849 416,steering,Vibration generator,ASE,Y,Y,Y
